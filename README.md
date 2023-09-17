@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/> 
 <img src="https://img.shields.io/badge/supercollider-black?style=for-the-badge&logo=supercollider&logoColor=white">
-<img src="https://img.shields.io/badge/processing-blue?style=for-the-badge&logo=processing&logoColor=white">
+<img src="https://img.shields.io/badge/processing-0763FF?style=for-the-badge&logo=processing&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollo graphql&logoColor=white"/>
