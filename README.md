@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/supercollider-black?style=for-the-badge&logo=supercollider&logoColor=white">
 <img src="https://img.shields.io/badge/processing-0763FF?style=for-the-badge&logo=processing&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollo graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
