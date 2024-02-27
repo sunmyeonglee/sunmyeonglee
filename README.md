@@ -2,7 +2,7 @@
   
 ## ✨ Hi there! I'm SunMyeong Lee. ✨
 
-### My Tech Stacks
+### My Tech Stacks 
 
 <div style="display : flex">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -21,7 +21,5 @@
 <img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollo graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-
 
 </div>
