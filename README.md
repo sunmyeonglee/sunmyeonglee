@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollo graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
